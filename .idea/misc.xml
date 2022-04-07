@@ -4,6 +4,7 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="app/src/main/res/drawable/default_bg.xml" value="0.1825" />
+        <entry key="app/src/main/res/drawable/selected_option_border_bg.xml" value="0.2" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.2617753623188406" />
         <entry key="app/src/main/res/layout/activity_quiz_questions.xml" value="0.17395833333333333" />
       </map>
